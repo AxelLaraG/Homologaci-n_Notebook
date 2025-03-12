@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://example.org/cvu#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://example.org/cvu#persona1">
+    <rdf:type rdf:resource="http://example.org/cvu#Persona"/>
+    <ns1:CURP rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RALF670718HTLZPD06</ns1:CURP>
+    <ns1:RFC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">RALF670718533</ns1:RFC>
+    <ns1:Sexo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Masculino</ns1:Sexo>
+    <ns1:Domicilio rdf:datatype="http://www.w3.org/2001/XMLSchema#string">TLAX , Cp. 52144</ns1:Domicilio>
+    <ns1:FechaNacimiento rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1967-07-18</ns1:FechaNacimiento>
+    <ns1:PaisNacimiento rdf:datatype="http://www.w3.org/2001/XMLSchema#string">México</ns1:PaisNacimiento>
+    <ns1:Nacionalidad rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mexicana</ns1:Nacionalidad>
+    <ns1:EstadoCivil rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Casado(a)</ns1:EstadoCivil>
+  </rdf:Description>
+</rdf:RDF>

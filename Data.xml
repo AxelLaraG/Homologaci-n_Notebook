@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cvu SYSTEM "Data.dtd">
+<cvu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+     xsi:noNamespaceSchemaLocation="NewSchema.xsd">
+    <personalData>
+        <CURP>RALF670718HTLZPD06</CURP>
+        <RFC>RALF670718533</RFC>
+        <Sexo>Masculino</Sexo>
+        <Domicilio>TLAX , Cp. 52144</Domicilio>
+        <FechaNacimiento>1967-07-18</FechaNacimiento>
+        <PaisNacimiento>México</PaisNacimiento>
+        <Nacionalidad>Mexicana</Nacionalidad>
+        <EstadoCivil>Casado(a)</EstadoCivil>
+    </personalData>
+</cvu>
